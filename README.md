@@ -22,7 +22,7 @@ var generatedToken = phoneNumberToken(8, {type: 'number'})
   - `options` - the length of the random string. [REQUIRED]
     - `type`
       - `number`
-      - `string'
+      - `string`
 
 ## Tests
 
