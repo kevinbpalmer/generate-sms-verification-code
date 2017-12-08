@@ -1,6 +1,6 @@
 {
   "name": "generate-sms-verification-code",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Generates an sms verification code that is only numbers as a string or a number depending on arguments that are passed",
   "main": "index.js",
   "scripts": {

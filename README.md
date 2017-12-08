@@ -18,9 +18,7 @@ var generatedToken = phoneNumberToken(8, {type: 'number'})
 
 ## API
 
-`randomstring.`
-
-- `phoneToken(length, options)`
+`phoneToken(length, options)`
   - `options` - the length of the random string. [REQUIRED]
     - `type`
       - `number`
