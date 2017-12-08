@@ -1,0 +1,23 @@
+{
+  "name": "generate-sms-verification-code",
+  "version": "1.0.0",
+  "description": "Generates an sms verification code that is only numbers as a string or a number depending on arguments that are passed",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinbpalmer/generate-sms-verification-code.git"
+  },
+  "keywords": [
+    "number",
+    "generator"
+  ],
+  "author": "Kevin Palmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinbpalmer/generate-sms-verification-code/issues"
+  },
+  "homepage": "https://github.com/kevinbpalmer/generate-sms-verification-code#readme"
+}
